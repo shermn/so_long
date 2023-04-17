@@ -1,4 +1,4 @@
-NAME    = test
+NAME    = so_long
 INC     = ./minilibx-linux# could be /usr/include depending on your OS
 LIBMLX  = ./minilibx-linux/# could be /usr/lib, depends on where you decided to put your mlx library
 UNAME   := $(shell uname)# get the OS name, this will help define behaviors for certain OS's
